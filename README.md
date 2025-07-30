@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ivan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Security Engenier</a>, <a href="https://www.youtube.com/c/joshmadakor">Analyst</a></h1>
+<h1>Hi, I'm Ivan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Security Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Analyst</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
