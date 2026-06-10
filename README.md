@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://www.linkedin.com/in/iv%C3%A1n-adonis-9b093a337/">LinkedIn</a> •
+  <a href="[https://www.linkedin.com/in/iv%C3%A1n-adonis-9b093a337/](https://www.linkedin.com/in/iv%C3%A1n-de-jes%C3%BAs-9b093a337/)">LinkedIn</a> •
   <a href="ivanadonis11@gmail.com">Email</a>
 </p>
 
